@@ -21,3 +21,9 @@ class Solution:
             profit += hi - lo
 
         return profit
+
+
+
+
+
+        
